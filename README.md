@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## 👋
+Меня зовут Ваня Ваня.
+Начинаю изучать Python.
 <!--
 **IanAlertman/IanAlertman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
